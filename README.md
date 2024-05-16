@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=5000&pause=1000&color=167B29FF&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG">
 </a>
 
-<p align = "center">
+<div align = "center">
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
+</div>
 
 👋🏼 Hey, I'm Scott, an excitedly curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
 
