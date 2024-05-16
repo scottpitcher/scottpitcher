@@ -1,6 +1,6 @@
 # Scott Pitcher
 
-## **`ML Engineer (Python/R/SQL)`**
+### **`ML Engineer (Python/R/SQL)`**
 
 <!--
 **scottpitcher/scottpitcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
