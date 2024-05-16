@@ -2,9 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=6000&pause=1000&color=167B29&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG" /></a>
 </p>
 
-<div align = "center">
+<h2 align = "center">
 <code>👨🏻‍💻 ML Engineer (Python/R/SQL) </code>
-</div>
+</h2>
 
 👋🏼 Hey, I'm Scott, an excitedly curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
 
