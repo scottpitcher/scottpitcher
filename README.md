@@ -26,7 +26,7 @@ An ML Engineer with interests in research and model development! I never saw mys
 </p>
 
 ---
-# 📊 My GitHub Stats
+## 📊 My GitHub Stats
 
 <a href ="https://github.com/scottpitcher"> <img width = "50%" src = "https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=vue-dark"> </a>
 
