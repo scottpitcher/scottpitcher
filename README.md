@@ -1,12 +1,11 @@
 <h1> Scott Pitcher </h1>
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
+- 👋🏼 Hey, I'm Scott, an eager and curious Machine Learning Engineer!
+- 📚 Recently, I graduated from USF with my B.S. in Mathematics, concentrated in Data Analysis and Business Intelligence.
+- 👣 While I navigate my next steps, I'll be working on cool new machine learning projects here!
+
 <p>  
-
-  👋🏼 Hey, I'm Scott, an eager and curious Machine Learning Engineer! <br>
-  📚 Recently, I graduated from USF with my B.S. in Mathematics, concentrated in Data Analysis and Business Intelligence. <br>
-  👣 While I navigate my next steps, I'll be working on cool new machine learning projects here! <br>
-
 <div>
 <details>
   <summary> More about me! </summary>
