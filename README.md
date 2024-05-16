@@ -2,7 +2,9 @@
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
 - 👋🏼 Hey, I'm Scott, an eager and curious Machine Learning Engineer!
+
 - 📚 Recently, I graduated from USF with my B.S. in Mathematics, concentrated in Data Analysis and Business Intelligence.
+
 - 👣 While I navigate my next steps, I'll be working on cool new machine learning projects here!
 
 <p>  
@@ -10,11 +12,13 @@
 <details>
   <summary> More about me! </summary>
 
-- 🔭 Currently exploring new **machine learning tools**
+- 🔭 Always exploring **machine learning tools** 
 
-- 🌱 
+- ⭐️ My greatest interests in ML are **language models, computer vision tools, and statistical analysis**
 
-- 💬 Ask me about ****
+- 🧹 Passionate about **keeping code clean** for comprehension, reuse, and scaling
+
+- 🏋🏽‍♂️ When my mind isn't flooded in code, you can **find me at the gym**
 
 - 👥 Connect with me on [LinkedIn!](https://www.linkedin.com/in/scottpitcher1)
 
