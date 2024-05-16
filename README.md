@@ -34,7 +34,7 @@
   <summary> 📈 More Stats! </summary>
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img width = "80%" src="https://github-readme-activity-graph.vercel.app/graph?username=scottpitcher&theme=vue&hide_border=true" alt="GitHub activity graph"> </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width = "80%" alt="Scott's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=scottpitcher&langs_count=8&layout=compact&theme=vue&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width = "80%" alt="Scott's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=scottpitcher&langs_count=8&layout=compact&theme=vue&langs_count=8&layout=compact&hide_border=true" height="192px"></a>
 
 </details>
 
