@@ -29,7 +29,12 @@
 <a href ="https://github.com/scottpitcher"> <img width = "50%" src = "https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=vue-dark"> </a>
 <a href ="https://github.com/scottpitcher"> <img width = "50%" src = "https://streak-stats.demolab.com?user=scottpitcher&theme=nordfox&border_radius=0"> </a>
 
+<div>
+<details>
+  <summary> 📈 More Stats! </summary>
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scottpitcher&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</details>
 ---
 #
 
