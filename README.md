@@ -6,7 +6,7 @@ As a recent graduate of the University of South Florida, where I completed my B.
 ---
 ### 📊 Stats
 
-![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=vue-dark)
+<a> [Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=vue-dark) </a>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=scottpitcher&theme=nordfox&border_radius=0)
 
