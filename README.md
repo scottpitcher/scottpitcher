@@ -18,7 +18,7 @@ Hey 👋, I'm Scott an eager and curious Machine Learning Engineer!
 
 - 💬 Ask me about **data **
 
-- 📫 Connect with me on <a href = "https://www.linkedin.com/in/scottpitcher1"> LinkedIn! <a/>
+- 📫 Connect with me on <a target="_blank" href = "https://www.linkedin.com/in/scottpitcher1"> LinkedIn! <a/>
 
 </details>
   
