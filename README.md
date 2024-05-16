@@ -1,5 +1,5 @@
 <h1> Scott Pitcher </h1> 
-<h3><b> 👨🏻‍💻 ML Engineer (Python/R/SQL)`</b></h3>
+<h3><b> `👨🏻‍💻 ML Engineer (Python/R/SQL)`</b></h3>
 As a recent graduate of the University of South Florida, where I completed my B.S. in Mathematics, concentrated in Data Analysis and Business Intelligence.
 
 ---
