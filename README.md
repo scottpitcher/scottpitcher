@@ -2,7 +2,7 @@
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
 <p>  
-Hey 👋, I'm Scott an eager and curious Machine Learning Engineer! 
+👋🏼 Hey, I'm Scott, an eager and curious Machine Learning Engineer! 
 
 <div>
 <details>
@@ -10,15 +10,11 @@ Hey 👋, I'm Scott an eager and curious Machine Learning Engineer!
 
 - 🔭 
 
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 🌱 I’m currently learning **everything** 
 
 - 💬 Ask me about **data **
 
-- 👥 Connect with me on <a href = "https://www.linkedin.com/in/scottpitcher1" target="_blank" rel="noopener noreferrer"> LinkedIn! <a/>
+- 👥 Connect with me on [LinkedIn!](https://www.linkedin.com/in/scottpitcher1)
 
 </details>
   
