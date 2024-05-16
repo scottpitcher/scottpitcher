@@ -5,7 +5,7 @@
 </p>
 
 <div align = "center">
-## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
+<code>👨🏻‍💻 ML Engineer (Python/R/SQL) </code>
 </div>
 
 👋🏼 Hey, I'm Scott, an excitedly curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
