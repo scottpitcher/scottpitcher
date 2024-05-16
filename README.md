@@ -33,11 +33,8 @@
 <details>
   <summary> 📈 More Stats! </summary>
   
-<div style="width: 60%;">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=scottpitcher&theme=vue&hide_border=true" alt="GitHub activity graph" style="width: 100%;">
-  </a>
-</div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img width = "60%" src="https://github-readme-activity-graph.vercel.app/graph?username=scottpitcher&theme=vue&hide_border=true" alt="GitHub activity graph"> </a>
+
 
 </details>
 
