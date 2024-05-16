@@ -5,7 +5,7 @@
 
 ### 📊 Stats
 
-![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=nordfox)
+![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=vue-dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=scottpitcher&theme=nordfox&border_radius=0)
 
