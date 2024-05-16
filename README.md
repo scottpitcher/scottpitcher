@@ -1,7 +1,7 @@
 <h1> Scott Pitcher </h1>
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
-- 👋🏼 Hey, I'm Scott, an eager and curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
+👋🏼 Hey, I'm Scott, an excitedly curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
 
 <p>  
 <div>
