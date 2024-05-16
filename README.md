@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=6000&pause=1000&color=167B29&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG" /></a>
 </p>
 
-
+#
 <h3>
   <code >👨🏻‍💻 ML Engineer (Python/R/SQL)</code>
 </h3>
