@@ -1,6 +1,6 @@
 <p align = "center">
 <a href="https://github.com/scottpitcher">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=5000&pause=1000&color=167B29FF&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=5000&pause=1000&color=167B29FF&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG">
 </a>
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
