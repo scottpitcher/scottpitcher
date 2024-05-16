@@ -16,9 +16,9 @@ Hey 👋, I'm Scott an eager and curious Machine Learning Engineer!
 
 - 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
 
-- 💬 Ask me about **open source, web development, and community management**
+- 💬 Ask me about **data **
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Connect with me on <a href = "https://www.linkedin.com/in/scottpitcher1"> LinkedIn! <a/>
 
 </details>
   
