@@ -3,8 +3,8 @@
 </p>
 
 #
-<h2 style="text-align: center; border-bottom: none;">
-  <code style="border: none;">👨🏻‍💻 ML Engineer (Python/R/SQL)</code>
+<h2 style="text-align: center; border: none; padding-bottom: 0;">
+  <code style="border: none; display: inline-block;">👨🏻‍💻 ML Engineer (Python/R/SQL)</code>
 </h2>
 
 👋🏼 Hey, I'm Scott, an excitedly curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
