@@ -2,7 +2,7 @@
 
 ### **`ML Engineer (Python/R/SQL)`**
 ---
-#
+
 ### 📊 Stats
 
 ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottpitcher&show_icons=true&theme=gruvbox)
