@@ -1,7 +1,8 @@
 <p align = "center">
 <a href="https://github.com/scottpitcher">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=1000&color=0B954F&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=1000&color=0B954F&repeat=false&random=false&width=435&lines=Scott+Pitcher..." alt="Typing SVG" />
 </a>
+</p>
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
 👋🏼 Hey, I'm Scott, an excitedly curious Machine Learning Engineer! I never saw myself working with code, until my my first year in college; now, I have spent 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new machine learning projects here! 🔜
