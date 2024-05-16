@@ -1,5 +1,5 @@
-# Scott Pitcher 
-## **`👨🏻‍💻 ML Engineer (Python/R/SQL)`** 
+<h1> Scott Pitcher </h1> 
+<h2> **`👨🏻‍💻 ML Engineer (Python/R/SQL)`** </h2>
 As a recent graduate of the University of South Florida, where I completed my B.S. in Mathematics, concentrated in Data Analysis and Business Intelligence.
 
 ---
