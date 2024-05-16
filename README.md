@@ -3,7 +3,7 @@
 </p>
 
 #
-<p>
+<p style = "font-size: 24px; font-weight: bold;">
   <code >👨🏻‍💻 ML Engineer (Python/R/SQL)</code>
 </p>
 
