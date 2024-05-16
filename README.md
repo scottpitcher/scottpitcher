@@ -1,7 +1,28 @@
 <h1> Scott Pitcher </h1>
 
 ## `👨🏻‍💻 ML Engineer (Python/R/SQL)` ##
-As a recent graduate of the University of South Florida, where I completed my B.S. in Mathematics, concentrated in Data Analysis and Business Intelligence.
+<p>  
+Hey 👋, I'm Scott an eager and curious Machine Learning Engineer! 
+
+<div>
+<details>
+  <summary> More about me! </summary>
+
+- 🔭 
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **contact@miaxu.co**
+
+</details>
+  
+</p>
 
 ---
 ### 📊 Stats
