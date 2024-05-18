@@ -12,7 +12,7 @@ An ML Engineer with interests in research and model development! I never saw mys
 <details>
   <summary> More about me! </summary>
 
-- 🔭 Always exploring **machine learning tools** 
+- 🔭 Always exploring cutting-edge **machine learning tools** 
 
 - ⭐️ My greatest interests in ML are **language models, computer vision tools, and statistical analysis**
 
