@@ -5,7 +5,7 @@
   <code >👨🏻‍💻 ML Engineer (Python/R/SQL)</code>
 </h3>
 
-An ML Engineer with interests in research and model development! I never saw myself working with code, until my my first year in college; now, I have 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new projects here! 🔜
+An ML Engineer with interests in research and model development, especially within language models and predictive forecasting! I never saw myself working with code, until my my first year in college; now, I have 3+ years learning and working with Python, R, SQL, and more! While I navigate my next steps, I'll be working on cool new projects here! 🔜
 
 <p>  
 <div>
